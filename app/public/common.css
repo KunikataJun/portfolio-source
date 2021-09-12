@@ -1,0 +1,10 @@
+#app {
+  background-image: url("./images/bright_squares.png");
+}
+.header-bg {
+  background-image: url("./images/sprinkles.png");
+  background-repeat: repeat;
+}
+.wait-display {
+  visibility: hidden;
+}
