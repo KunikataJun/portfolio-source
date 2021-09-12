@@ -26,6 +26,7 @@ if (User::is_logged_in()) {
     margin-left: 33px;
   }
   </style>
+  <link rel="prefetch" href="<?php echo IMAGES_DIR; ?>/peru.png">
 </head>
 <body>
   <div id="app" class="wait-display">
